@@ -1,2 +1,2 @@
-# prrivacy_policy
+# privacy_policy
 BMI
